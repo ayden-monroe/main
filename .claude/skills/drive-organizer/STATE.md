@@ -290,3 +290,67 @@ pass can then file them by the new names.
   in root, untouched. These are worth moving out of Drive entirely into a
   password manager — but that is Steven's call, not something to do quietly.
 - **`.exe` files**: flagged, never deleted.
+
+---
+
+# AUDIT — 2026-09-14
+
+Full verification pass over all five master folders.
+
+## Structure: clean
+
+| Master folder | Subfolders | Loose files at top level |
+|---|---|---|
+| Real estate projects | 28 | 0 |
+| Legal & company documents | 22 | 0 |
+| Financials to sort | 14 | 0 |
+| Templates | 13 | 0 |
+| Personal documents | 6 | 1 (medical file, skipped on purpose) |
+| **Total** | **83** | **1** |
+
+- No duplicate subfolder names inside any master folder.
+- No duplicate master folders in root — confirmed by listing root folders.
+
+## Naming overlaps that hurt readability
+
+Not errors, but three folders cover tax sales and two cover underwriting:
+- `Tax sale and surplus claims` exists in **Real estate** AND in **Legal**
+- `Tax sale surplus and redemption records` in **Financials**
+- `Underwriting and proforma templates` (Real estate) vs `Underwriting templates` (Templates)
+
+Each holds a genuinely different slice (property records / court claims / payment
+records), but the names do not say so. Suggest renaming rather than merging.
+
+## Dates: 14 files predate 2024
+
+Measured by querying `createdTime < 2024-01-01` against all 83 subfolders.
+
+| Master folder | Pre-2024 files |
+|---|---|
+| Legal & company documents | 11 |
+| Templates | 2 |
+| Personal documents | 1 |
+| Financials to sort | 0 |
+| Real estate projects | 0 |
+
+Legal breakdown: 8 in `Court orders and judgments` (2019, 2021, 2023), 1 in
+`Complaints and answers` (2021), 2 in `Massa M60 fraud case file` (2017, 2018).
+Templates: both in `Business scaling and marketing playbooks` (2021, 2022).
+Personal: one image in `Photos and images` (2021).
+
+**These are not misfiles.** `createdTime` is the Drive upload date, not the
+document date. Every one of them arrived as part of a case cluster or reference
+set that is still active — the Massa M60 matter runs from 2017 to today, and the
+court orders belong with the rest of their docket. Pulling them out on a date
+rule would split live case files. Recommend leaving them; flagged for the owner
+to decide.
+
+## Other observations
+
+- Root folder `Purchase Documents` (`1WnHvaFUjEszmZHMcs-eyGFAdvsgVWbTo`) reports
+  `modifiedTime` of 1979-11-30 — a corrupt timestamp from whatever created it.
+  Harmless, but it will sort oddly in any date-ordered view.
+- Fixed one misfile found during the merge: `Marketing On-Demand Hiring
+  Playbook_Graphite.pdf` moved from the review pile to
+  `Templates > Business scaling and marketing playbooks`.
+- The root duplicates from Phase 4a are still present and still untouched.
