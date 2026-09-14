@@ -20,7 +20,7 @@ Personal per the safety rules).
 |---|---|---|
 | Real estate projects | 28 | yes |
 | Legal & company documents | 22 | yes |
-| Templates | 12 | yes |
+| Templates | 13 | yes |
 | Personal documents | 6 | yes (1 medical file skipped on purpose) |
 | Financials to sort | 14 | yes |
 
@@ -135,7 +135,8 @@ Project and production templates `1ef9kGfyDbl25ZeE2Zd5U2eRj5_Ll8tvU` ·
 Authority articles and public image `1JzGFl4w4uXfHP7mix_0tY4wBwj9KuSyv` ·
 Underwriting templates `14sDV_tsbWrOlxRXSl3t4GGMgeSsN-qSz` ·
 Relevant Communities vision plans `1J6WCgw51YIwKDGuON2VhPn5WnLdj_NHX` ·
-Rehab and decommissioning checklists `1ofs7BMifK4t1BQMq433ou6T8sAmPvnvF`
+Rehab and decommissioning checklists `1ofs7BMifK4t1BQMq433ou6T8sAmPvnvF` ·
+Phoenix article analyses and briefings `1BTisjJdHYlI_-hXgeKu-jjS-HTUUyoMk`
 
 ### Personal documents — subfolders
 Photos and images `13O_g1mmxyqppbWc-uKuWN4uN67Lxntxl` ·
@@ -196,3 +197,14 @@ The 18:17 copy had no `viewedByMeTime` on any file — never opened. The 18:20
 copy's README shows a later edit, so it is the live one. Trashed the 18:17 copy
 (`15O5tRxQ...`); recoverable from Drive trash for 30 days. Contents were NOT
 restructured — that taxonomy is the owner's and adopting it is their call.
+
+**2026-09-14 — Phase 3b (in progress).** The duplicate `Unidentified — needs
+review` (`1yb6IV8...`) turned out to hold 200+ files, not a handful, and many
+were classifiable rather than genuinely unknown — so they are being filed into
+real subfolders instead of dumped into the keeper. 200 done so far; the folder
+still has more pages. Page tokens go stale across MCP reconnects, so the
+technique is: move a page's worth out, then re-query page 1 — the remainder
+surfaces. Two new subfolders were needed:
+`Financials > Tax redemption funding checklists` and
+`Templates > Phoenix article analyses and briefings` (the owner has dozens of
+"Phoenix, this article..." AI briefing docs).
