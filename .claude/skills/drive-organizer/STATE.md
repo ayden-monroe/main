@@ -12,7 +12,7 @@ unfinished step, tick the box, commit, push.
 
 ## Phase 2 — Build subfolders inside each master folder and sort into them — DONE
 
-857 files filed into 66 new subfolders. Every master folder verified to have
+913 files filed into 68 new subfolders. Every master folder verified to have
 zero loose files at its top level (one medical file deliberately left in
 Personal per the safety rules).
 
@@ -22,18 +22,18 @@ Personal per the safety rules).
 | Legal & company documents | 22 | yes |
 | Templates | 12 | yes |
 | Personal documents | 6 | yes (1 medical file skipped on purpose) |
-| Financials to sort | 12 | yes |
+| Financials to sort | 14 | yes |
 
 ## Phase 3 — Merge duplicate master folders — IN PROGRESS
 
-- [ ] **3a. `Financials to sort`** — classify the ~57 loose files in the
+- [x] **3a. `Financials to sort`** — DONE 2026-09-14. — classify the ~57 loose files in the
       duplicate `1R3e_j8twr-0vjTzwuR0duqYFFuiIt4o9` (created 09-07) against the
       12-bucket Financials ruleset, move them into the subfolders under
       `1d-nvzXVQ9SDXm1eZx4FQHAaGBQCRRX2G`, verify the duplicate is empty, trash it.
 - [ ] **3b. `Unidentified — needs review`** — move all files from the duplicate
       `1yb6IV8dTJlT3t_Aq_-yW1KixpUeOM_SO` (100+ files, paged) into the keeper
       `127_kyDmaKvqNdfNeztVvxsX54kC8iq7s`, verify empty, trash the duplicate.
-- [ ] **3c. `Phoenix_Google_Drive_Directory`** — the two copies are identical
+- [x] **3c. `Phoenix_Google_Drive_Directory`** — DONE 2026-09-14. — the two copies are identical
       16-folder scaffolds. Keep `1dWKcVWk_SZBJWZsuqCkd663XDQK_UnRA` (18:20),
       trash `15O5tRxQBGnmXTSXRMSpSypF64y2Up3sM` (18:17). **Do not restructure
       its contents** — this taxonomy was created by someone else on 2026-09-13
@@ -78,12 +78,10 @@ Personal per the safety rules).
 | Personal documents | `1aAdLkN5F4Ehqwjdw8Sw-9zhmtskNtS53` |
 | Templates | `1_EL6_Jvhf0ApLfX7s46Yvp_pEMD8NFUM` |
 | Financials to sort (KEEP) | `1d-nvzXVQ9SDXm1eZx4FQHAaGBQCRRX2G` |
-| Financials to sort (DUPLICATE) | `1R3e_j8twr-0vjTzwuR0duqYFFuiIt4o9` |
 | Unidentified — needs review (KEEP) | `127_kyDmaKvqNdfNeztVvxsX54kC8iq7s` |
 | Unidentified — needs review (DUPLICATE) | `1yb6IV8dTJlT3t_Aq_-yW1KixpUeOM_SO` |
 | Sensitive account records (do not use) | `1gXjdp5fUPhNO3lfZ8qXaj6eHth8YLqmG` |
 | Phoenix_Google_Drive_Directory (KEEP) | `1dWKcVWk_SZBJWZsuqCkd663XDQK_UnRA` |
-| Phoenix_Google_Drive_Directory (DUPLICATE) | `15O5tRxQBGnmXTSXRMSpSypF64y2Up3sM` |
 
 ### Financials to sort — subfolders
 Cash App reports `19NxBPljZsQ3pmQeWBvj8gx_T-FVuCGoM` ·
@@ -97,7 +95,9 @@ Profit and loss statements `1RhA3bPyvkZSsCwg8cfEDTosgsSEX59fL` ·
 Donny Lewis maintenance tracking `1Caz1IzrDemw0PQmDrfgpfP8xcTYVUTyi` ·
 Tax liens and W-9 `1m4jG_17vVCvQHuhOfmPw4KWL7rONXOJJ` ·
 Financing and funding notes `1dIpyyi3ci_0ZeNnnqPcP2nxG1kiZ3vx7` ·
-Receipts and invoices `1IXIOzgKF61IQ6Ym6GZKhi4tC9cAP0jy_`
+Receipts and invoices `1IXIOzgKF61IQ6Ym6GZKhi4tC9cAP0jy_` ·
+Tax redemption funding checklists `1QPbs1M6UdfMMWa0hWQwL9BuTzM_sJUuq` ·
+Tax sale surplus and redemption records `1KWXiI-BMAjEmbNDF8srzrObiXSznlzNp`
 
 ### Legal & company documents — subfolders
 Court orders and judgments `16I55Sx6WstxCf8Kkv6VxC5KbZHklw6rf` ·
@@ -174,3 +174,25 @@ Super 8 South Bend `1q-InltMeSypwjI1MGI2VCt9176tCMRSZ` ·
 Massa and Duane farm `1OL-HCyMD7jSUXPunJFogibE-UcR6pa_4` ·
 Value Add Retail - 2024 Roof `1L-O5OKZEMVL6DRcb82DZS4OH7Lpj5B-2` ·
 Other deals and one-offs `18liPFCjJ-G_D8k_0NpCNtEkY1veJ0ZBp`
+
+---
+
+## Run log
+
+**2026-09-14 — Phase 3a.** Inventoried the duplicate `Financials to sort`
+(`1R3e_j8twr...`): 56 files, no subfolders, single page. Content was almost
+entirely Indiana tax-sale redemption material, which the existing 12 buckets
+did not cover, so two new subfolders were added to the keeper:
+`Tax redemption funding checklists` (20 files) and `Tax sale surplus and
+redemption records` (22 files). The rest went to existing buckets — Account and
+loan details 5, Rent ledgers 3, Receipts and invoices 2 (I&M utility bills),
+Profit and loss 2, and 2 `1129 trust paperwork` files routed across to Legal ->
+Entity formation. Classifier had zero OTHER. Duplicate verified empty, trashed.
+
+**2026-09-14 — Phase 3c.** Compared both `Phoenix_Google_Drive_Directory`
+scaffolds. Byte-identical: same 5 top-level files (5699/1846/269/2282548/1280)
+and same 16 subfolders, created 3 minutes apart by the same PowerShell script.
+The 18:17 copy had no `viewedByMeTime` on any file — never opened. The 18:20
+copy's README shows a later edit, so it is the live one. Trashed the 18:17 copy
+(`15O5tRxQ...`); recoverable from Drive trash for 30 days. Contents were NOT
+restructured — that taxonomy is the owner's and adopting it is their call.
