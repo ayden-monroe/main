@@ -12,7 +12,7 @@ unfinished step, tick the box, commit, push.
 
 ## Phase 2 — Build subfolders inside each master folder and sort into them — DONE
 
-913 files filed into 68 new subfolders. Every master folder verified to have
+1,217 files filed into 69 new subfolders. Every master folder verified to have
 zero loose files at its top level (one medical file deliberately left in
 Personal per the safety rules).
 
@@ -24,13 +24,13 @@ Personal per the safety rules).
 | Personal documents | 6 | yes (1 medical file skipped on purpose) |
 | Financials to sort | 14 | yes |
 
-## Phase 3 — Merge duplicate master folders — IN PROGRESS
+## Phase 3 — Merge duplicate master folders — DONE
 
 - [x] **3a. `Financials to sort`** — DONE 2026-09-14. — classify the ~57 loose files in the
       duplicate `1R3e_j8twr-0vjTzwuR0duqYFFuiIt4o9` (created 09-07) against the
       12-bucket Financials ruleset, move them into the subfolders under
       `1d-nvzXVQ9SDXm1eZx4FQHAaGBQCRRX2G`, verify the duplicate is empty, trash it.
-- [ ] **3b. `Unidentified — needs review`** — move all files from the duplicate
+- [x] **3b. `Unidentified — needs review`** — DONE 2026-09-14. — move all files from the duplicate
       `1yb6IV8dTJlT3t_Aq_-yW1KixpUeOM_SO` (100+ files, paged) into the keeper
       `127_kyDmaKvqNdfNeztVvxsX54kC8iq7s`, verify empty, trash the duplicate.
 - [x] **3c. `Phoenix_Google_Drive_Directory`** — DONE 2026-09-14. — the two copies are identical
@@ -79,7 +79,6 @@ Personal per the safety rules).
 | Templates | `1_EL6_Jvhf0ApLfX7s46Yvp_pEMD8NFUM` |
 | Financials to sort (KEEP) | `1d-nvzXVQ9SDXm1eZx4FQHAaGBQCRRX2G` |
 | Unidentified — needs review (KEEP) | `127_kyDmaKvqNdfNeztVvxsX54kC8iq7s` |
-| Unidentified — needs review (DUPLICATE) | `1yb6IV8dTJlT3t_Aq_-yW1KixpUeOM_SO` |
 | Sensitive account records (do not use) | `1gXjdp5fUPhNO3lfZ8qXaj6eHth8YLqmG` |
 | Phoenix_Google_Drive_Directory (KEEP) | `1dWKcVWk_SZBJWZsuqCkd663XDQK_UnRA` |
 
@@ -208,3 +207,17 @@ surfaces. Two new subfolders were needed:
 `Financials > Tax redemption funding checklists` and
 `Templates > Phoenix article analyses and briefings` (the owner has dozens of
 "Phoenix, this article..." AI briefing docs).
+
+**2026-09-14 — Phase 3b complete.** 304 files cleared out of the duplicate
+`Unidentified — needs review`, in four passes of ~100. Only about a third were
+genuinely unidentifiable; the rest were classifiable once the ruleset was
+extended three times as new patterns surfaced (AMH/BAM/SEC investor filings ->
+PPM and fund offering documents; job descriptions and candidate notes ->
+Business scaling; Mr_Handyperson and VendorPO work orders -> Receipts and
+invoices; dozens of "Phoenix, this article..." and Grok/Gemini exports -> the
+new Phoenix article analyses and briefings folder). Duplicate verified empty,
+then trashed. All three duplicate master folders are now gone.
+
+Note: `Marketing On-Demand Hiring Playbook_Graphite.pdf` landed in the review
+pile before the HIRING rule existed — it belongs in Business scaling and
+marketing playbooks. Not worth a dedicated pass; fix it during Phase 4c.
