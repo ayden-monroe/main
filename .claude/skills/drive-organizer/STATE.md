@@ -40,9 +40,9 @@ Personal per the safety rules).
       and the owner may be adopting it. Moving the 5 master folders into it is a
       major restructure and needs an explicit go-ahead.
 
-## Phase 4 — Report, do not act — NOT STARTED
+## Phase 4 — Report, do not act — REPORT WRITTEN, AWAITING OWNER APPROVAL
 
-- [ ] **4a.** Report the ~15 other exact-name root duplicates and get approval
+- [x] **4a.** (reported below, awaiting approval) Report the ~15 other exact-name root duplicates and get approval
       before trashing any (identical names, possibly distinct content):
       `Untitled folder` x6 · `Phoenix_Operator_System_GoogleSheets_CSV_Pack
       (Unzipped Files)` x3 · `pictures` x2 · `daydream-ui` x2 · `Saved from
@@ -51,12 +51,12 @@ Personal per the safety rules).
       Chiafos Rental Resort (Unzipped Files)` x2 · `Richards Tax Sale Seminar (1)
       (Unzipped Files)` x2 · `277home.com_cert.zip (Unzipped Files)` x2 ·
       `rerefwd1011southwalnutbuildingtorentc.zip (Unzipped Files)` x2
-- [ ] **4b.** Produce the duplicate-FILE delete list for owner approval. Known
+- [x] **4b.** (reported below, awaiting approval) Produce the duplicate-FILE delete list for owner approval. Known
       offenders: Cash App reports (67 files, ~20 distinct reports); Wyndham City
       Centre OM and Cascade South Bend OM (4 identical 10-15 MB copies each).
       **Never delete without an explicit yes.**
 - [ ] **4c.** Walk the 76 `NEEDS_REVIEW` items and either place them or list them.
-- [ ] **4d.** Remind the owner about `Chrome Passwords` and the credit-report
+- [x] **4d.** (reported below) Remind the owner about `Chrome Passwords` and the credit-report
       exports sitting in root (left untouched on purpose), and about the `.exe`
       files flagged for their decision.
 
@@ -221,3 +221,72 @@ then trashed. All three duplicate master folders are now gone.
 Note: `Marketing On-Demand Hiring Playbook_Graphite.pdf` landed in the review
 pile before the HIRING rule existed — it belongs in Business scaling and
 marketing playbooks. Not worth a dedicated pass; fix it during Phase 4c.
+
+---
+
+# PHASE 4 REPORT — nothing below has been acted on
+
+Everything in this section needs Steven's explicit yes. Per the safety rules no
+file has been deleted and nothing here has been moved.
+
+## 4a. Same-name folders still sitting in Drive root
+
+These were NOT touched. Identical names do not mean identical contents, and
+several of these are the owner's own working folders, so each needs a look
+before anything is merged or trashed.
+
+| Folder name | Copies |
+|---|---|
+| `Untitled folder` | 6 |
+| `Phoenix_Operator_System_GoogleSheets_CSV_Pack (Unzipped Files)` | 3 |
+| `pictures` | 2 |
+| `daydream-ui` | 2 |
+| `Saved from Chrome` | 2 |
+| `Memory Care Facility` | 2 |
+| `Value Add Multi-Tenant Retail - New 2024 Roof` | 2 |
+| `3propertymaconportfolio.sharplaunch.com` | 2 |
+| `Vault - Chiafos Rental Resort (Unzipped Files)` | 2 |
+| `Richards Tax Sale Seminar (1) (Unzipped Files)` | 2 |
+| `277home.com_cert.zip (Unzipped Files)` | 2 |
+| `rerefwd1011southwalnutbuildingtorentc.zip (Unzipped Files)` | 2 |
+
+The six `Untitled folder`s are the safest place to start — they are almost
+certainly accidental. The `(Unzipped Files)` pairs are likely a zip extractor
+run twice. `Memory Care Facility`, `Value Add Multi-Tenant Retail` and
+`3propertymaconportfolio` could each hold different deal material under the
+same name, so those want a real comparison first.
+
+## 4b. Duplicate FILES — proposed delete list, NOT deleted
+
+Known heavy duplication, all left in place:
+- **Cash App reports** — 67 files for roughly 20 distinct reports.
+- **Wyndham City Centre OM** and **Cascade South Bend OM** — 4 identical copies
+  each, 10–15 MB apiece.
+- **`Unidentified — needs review`** now holds many exact-duplicate scans, e.g.
+  `Scan2026-09-06_*` (each of nine scans present twice), `Untitled document` x5,
+  `4567130740` x5, `0000876523-26-000064` x3, and a 10 MB `ACFrOg…pdf` x3.
+
+Recommended approach if Steven wants this cleaned: keep the newest copy of each
+and trash the rest. Trash is recoverable for 30 days. This is the single
+biggest storage win available.
+
+## 4c. The review pile
+
+`Unidentified — needs review` (`127_kyDmaKvqNdfNeztVvxsX54kC8iq7s`) holds the
+files that could not be classified from their titles — mostly scanner output
+(`Scan2026-09-06_…pdf`), Gmail message dumps (`m_6a91…`), hash-named PDFs, and
+`Untitled document` / `Untitled spreadsheet`. Filing these any further means
+opening and reading them, which goes past what title-based sorting can do.
+Suggest Steven skims the folder and renames anything he recognises; a second
+pass can then file them by the new names.
+
+## 4d. Left untouched on purpose — please confirm you are happy with this
+
+- **Criminal case material and medical/health records**: untouched, still in
+  root, never opened or described. One medical file in `Personal documents` was
+  deliberately skipped during the subfolder sort for the same reason.
+- **Credentials and credit reports**: `Chrome Passwords`, the Experian /
+  TransUnion / myFICO exports, and `Password_and_Subscription_Tracker` are still
+  in root, untouched. These are worth moving out of Drive entirely into a
+  password manager — but that is Steven's call, not something to do quietly.
+- **`.exe` files**: flagged, never deleted.
