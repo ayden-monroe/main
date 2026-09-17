@@ -354,3 +354,73 @@ to decide.
   Playbook_Graphite.pdf` moved from the review pile to
   `Templates > Business scaling and marketing playbooks`.
 - The root duplicates from Phase 4a are still present and still untouched.
+
+---
+
+# MIGRATION TO THE SRF 11 / PHOENIX SYSTEM — 2026-09-17
+
+Steven's business supplied a `property-drive-organizer` skill (the "SRF 11 folder
+plan"). Its three reference files were NOT supplied, but the target taxonomy was
+recoverable: `Phoenix_Google_Drive_Directory` (`1dWKcVWk_SZBJWZsuqCkd663XDQK_UnRA`)
+is the same system, and its `README_START_HERE.md` documents all 16 numbered
+folders. It names the `SRF 11 FILES` shared drive explicitly.
+
+**All 83 subfolders were moved into that scaffold** (whole folders, so contents
+rode along — 84 moves instead of ~1,200 file moves).
+
+| From | To |
+|---|---|
+| Real estate — 14 named properties | `02_REAL_ESTATE_PORTFOLIO` |
+| Real estate — 11 deal/opportunity folders | `03_ACTIVE_DEALS` |
+| Real estate — 911 Acquisitions | `01_911_ACQUISITIONS` |
+| Real estate — Underwriting templates, Proof of funds | `05_FINANCE_AND_CAPITAL` |
+| Legal — 19 of 22 | `04_LEGAL_AND_COLLECTIONS` |
+| Legal — Entity formation | `07_COMPANIES_AND_BRANDS` |
+| Legal — PPM and fund offering docs | `08_INVESTORS_LENDERS_PARTNERS` |
+| Legal — Tax notices and letters | `05_FINANCE_AND_CAPITAL` |
+| Financials — all 14 | `05_FINANCE_AND_CAPITAL` |
+| Templates — DLP, Business scaling, Questionnaires | `90_REFERENCE_LIBRARY` |
+| Templates — Phoenix bio, Health dashboards | `11_PERSONAL_PHOENIX` |
+| Templates — Playbooks, Project templates, Rehab checklists | `06_OPERATIONS_AND_TEAM` |
+| Templates — Phoenix OS and dashboards | `00_COMMAND_CENTER` |
+| Templates — Authority articles | `09_MARKETING_AND_BRAND` |
+| Templates — Underwriting templates | `05_FINANCE_AND_CAPITAL` |
+| Templates — Relevant Communities | `07_COMPANIES_AND_BRANDS` |
+| Templates — Phoenix article analyses | `10_AI_WORKBENCH` |
+| Personal — all 6 | `11_PERSONAL_PHOENIX` |
+| Unidentified — needs review | `98_INBOX_TO_FILE` |
+
+## Old master folders
+
+Trashed (verified empty first): `Real estate projects`, `Templates`,
+`Financials to sort`.
+
+**NOT trashed, deliberately — two blockers:**
+1. `Personal documents` (`1aAdLkN5F4Ehqwjdw8Sw-9zhmtskNtS53`) still holds the
+   hernia/surgery recovery log. Standing rule is leave medical records untouched,
+   and trashing the folder would trash the file. Needs Steven's call.
+2. `Legal & company documents` (`17i3_7gGq-gjZdJomlw1C2di0M2z9A5R4`) holds a
+   **shortcut to `Chrome Passwords` that Steven created himself on 2026-09-14** —
+   after our sort. He is mid-way through the README's instruction to move that
+   file into a password manager. Not mine to remove.
+
+## The "empty files" — the premise was wrong
+
+The business reported a couple of empty files. Searching for the 1024-byte
+signature of an empty Google Doc returned exactly two candidates. Both were
+opened before any deletion and **both have real content**:
+- `Untitled document` (Sept 16) — a work request to build a billable timesheet
+  for Stephen Reiner, Sherry White, Steven Kollar and Lori Berry.
+- `mind dump 2026 sept` — a link to attorney Jon D Madison's profile.
+
+**Google reports 1024 bytes for every Google Doc regardless of content.** Size is
+not a usable emptiness test. Finding truly empty files means opening every file,
+which collides with the rule against opening the criminal-case and medical
+material. The actual filenames are needed from the business. Nothing deleted.
+
+## Conflict noted
+
+The supplied skill's ground rule 1 is "Never delete anything." Ayden chose
+"trash them" (recoverable 30 days) for confirmed-empty files, which overrides
+that rule for this specific case only. The folder trashing above followed the
+same standard: verify empty, then trash.
