@@ -301,3 +301,28 @@ deck, `24255.pdf` → 24255 Huron, `1129.pdf` → 1129 Huey, July scans →
   that they are not case exhibits.
 
 More root pages remain in the sweep.
+
+### Root sweep page 2 — 50 more files filed
+
+Phoenix control-tower / OS / AI-session docs → `11 / System Documentation` ·
+Meeting Impact Filters, CEO Reset Weekend Workbooks, Loss Accounting guide →
+`11 / SOPs` · tax-sale + 5 `SUR`/`SURLET` surplus letters → `02 / Tax Records` ·
+4 `.exe` installers (Fireflies ×2, BingWallpaper ×2) → existing
+`Old installer files` · 9 lawyer/VA/cybersecurity/1031 guides → `08 / Training` ·
+`roles_and_descriptions` → `08 / Job Descriptions` · fund summaries, sponsor
+info, 2025 update → `04 / Due Diligence` · July scan → `00 / Scanned Documents` ·
+unidentifiable filenames → `00 / Needs Identification` · personal reflections
+and journals → `00 / Needs Review`.
+
+**Useful query trick for the remaining pages** — the protected clusters fill
+every page, so exclude them by title:
+
+    parentId = 'root' and mimeType != 'application/vnd.google-apps.folder'
+    and createdTime >= '2020-01-01T00:00:00Z'
+    and not title contains 'Kollar' and not title contains 'blood'
+    and not title contains 'baseline' and not title contains 'Scan2026-09-06'
+    and not title contains 'principle' and not title contains 'RICO'
+    and not title contains 'elias' and not title contains 'phoniex'
+    and not title contains 'Experian' and not title contains 'Passwords'
+
+Still more pages to go.
