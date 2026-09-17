@@ -263,3 +263,41 @@ worse than leaving them. Needs an owner decision.
    …) remain. Trash only after verifying empty, and only with approval.
 3. **Resume the paused 2020→now loose-file sweep from Drive root** — file
    into SRF 11 now, not Melvin's. ~224 root files done, more pages remain.
+
+## Loose-file cleanup — 2026-09-17
+
+**Melvin's folders: now completely clear of loose files.** 37 files that were
+sitting directly in his top-level folders were filed into SRF 11:
+
+- 7 Tuesday call packets → `01 / Meeting Notes`
+- 13 Phoenix system/index/matrix/tracker files → `11 / System Documentation`
+- 2 Top_88_Projects → `05 / Master Project Tracker`
+- 3 pawn-shop employee handbooks → `01 / Company Policies`
+- 3 logo/brand/pitch files → `10 / Logos & Brand Guidelines` + `Advertising`
+- 3 `20 Mile March` + playbooks → `11 / SOPs`
+- `Create_Phoenix_Directory.ps1` → `11 / Automations & Integrations`
+- `DEAL_FOLDER_TEMPLATE.txt` → `12 / Project Checklists`
+- 24 deal/hotel/note-sale due-diligence files → `04 / Due Diligence`
+- `OMF Cards milestone` → `00 / Needs Review`
+
+Two new property folders created under `03 / Active Properties` for loose
+property files that had no home:
+`1937 Johnson` `1sAAzxz1XshU9_B3ZlRxudU3AkLpNofIB` (4 rehab photos) ·
+`520 27th Street` `1dOzUU8Y89HQ47ZLAaC8XePKqI2ACEkz7` (1 PDF)
+
+## 2020→now root sweep — page 1 of the resumed run
+
+27 more root files filed (brand art, a pawn-center business plan, proof of
+funds, Phoenix operating-system docs, LSAT/Maselli training PDFs, a Pinnacle
+deck, `24255.pdf` → 24255 Huron, `1129.pdf` → 1129 Huey, July scans →
+`00 / Scanned Documents`, unclear items → `00 / Needs Identification`).
+
+**Left in root untouched, on purpose** (standing safety rules):
+- ~30 files in the `Kollar v. State` / RICO / sentencing / case-docket cluster
+- ~14 blood-test, lab-result and baseline-test files
+- `Chrome Passwords`, `Experian 698 experin 9-16-2026`
+- `Steven_Kollar_Phoenix_Founder_Profile` (×2) and the Sept-6/7 scan batch
+  uploaded alongside the case material — left pending owner confirmation
+  that they are not case exhibits.
+
+More root pages remain in the sweep.
