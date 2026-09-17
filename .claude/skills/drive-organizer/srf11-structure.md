@@ -208,3 +208,58 @@ Drive root now holds three separate filing systems:
 Do not start mass-moving files out of (2) into (1) until the owner confirms
 the SRF 11 plan replaces Melvin's scaffold rather than sitting beside it.
 Nothing was moved, renamed, or deleted in this build.
+
+## Migration into SRF 11 — DONE 2026-09-17
+
+Owner decision (AskUserQuestion): **SRF 11 replaces Melvin's Phoenix
+scaffold.** The Aug-9 `10 — / 30 — / 40 —` series: **leave alone for now.**
+
+76 of the 84 subfolders moved out of `Phoenix_Google_Drive_Directory` and
+into the SRF 11 folders. Folder-level moves, so all contained files came
+along. Nothing was renamed, trashed, or deleted.
+
+| Count | From Melvin's | To SRF 11 |
+|---|---|---|
+| 13 | 02_REAL_ESTATE_PORTFOLIO | 03 / Active Properties |
+| 11 | 03_ACTIVE_DEALS + 01_911_ACQUISITIONS | 04 / Leads & Opportunities, Due Diligence, Marketing Listings |
+| 18 | 04_LEGAL_AND_COLLECTIONS | 09 / Disputes & Claims, General Business Agreements, Legal Correspondence, Compliance Tracking |
+| 17 | 05_FINANCE_AND_CAPITAL + 08_INVESTORS | 02 / Tax Records, Banking & Statements, Loans & Financing, Accounts Payable/Receivable, Financial Reports, Budgets |
+| 6 | 06_OPERATIONS + 90_REFERENCE_LIBRARY | 11 / SOPs, 12 / Project Checklists, 05 / Project Templates |
+| 4 | 00_COMMAND_CENTER, 10_AI_WORKBENCH, 07_COMPANIES, 09_MARKETING | 11 / System Documentation, 01 / Formation & Ownership + Company Policies, 10 / Advertising |
+| 2 | 98_INBOX_TO_FILE, 04_LEGAL | 00 / Needs Identification, 00 / Needs Review |
+
+### The 8 that did NOT move — deliberate
+
+`11_PERSONAL_PHOENIX` `1RX2-5dDJEJKG8AetBgM26qiI1SLy-htf` keeps: Health and
+life dashboards · Mission statement and founder profile · Personal reports
+and forms · Phoenix bio and personal blueprint · Phoenix personal system and
+trackers · Photos and images · Screenshots · iCloud photo archives.
+
+The SRF 11 plan is a **business** filing plan — it has no personal or health
+category, and two of these hold health material covered by the standing
+"leave medical untouched" rule. Guessing a business home for them would be
+worse than leaving them. Needs an owner decision.
+
+### Judgement calls worth a second look
+
+- **Property status.** The plan wants each property under Active / Under
+  Contract / Sold / Inactive. Status was not discoverable from folder names,
+  so all 13 owned properties went to **Active Properties**. Re-sort once the
+  owner confirms which are sold or inactive.
+- **Property folders are not yet in the 12-part template shape.** They moved
+  as-is. Applying `_TEMPLATE` per property is a separate pass.
+- `Attorney Assistant practice materials` → `00 / Needs Review` (reference
+  material, no clear business home).
+- Both underwriting-template folders → `12 / Estimates`.
+
+### Still to do
+
+1. Loose FILES still sitting directly in Melvin's top-level folders (not part
+   of the 83 subfolders) — need refiling into SRF 11. Seen so far in
+   `00_COMMAND_CENTER`, `03_ACTIVE_DEALS`, `02_REAL_ESTATE_PORTFOLIO`,
+   `07_COMPANIES_AND_BRANDS`, `09_MARKETING_AND_BRAND`.
+2. Melvin's own empty numbered sub-scaffold folders (`07_VENDOR_MANAGEMENT`,
+   `01_Springfield_IL_Tower_Wyndham`, `02_DEEP_RESEARCH`, `01_HEALTH_RESTRICTED`,
+   …) remain. Trash only after verifying empty, and only with approval.
+3. **Resume the paused 2020→now loose-file sweep from Drive root** — file
+   into SRF 11 now, not Melvin's. ~224 root files done, more pages remain.
