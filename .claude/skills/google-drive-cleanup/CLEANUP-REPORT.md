@@ -417,3 +417,85 @@ structure calls for them but there is nothing in them yet.
 The plaintext credential file, the unapplied colours, the empty Filing Queue
 sheet, the missing permissions on the RESTRICTED folders, and the ~6,000 loose
 files at the Drive root are all unchanged by this pass.
+
+---
+
+# Part 3 — Date scope enforcement (2020 to 2026)
+
+Run date: 2026-09-27.
+Rule applied (phoenix-drive-control): in scope is 2020-01-01 to today, judged
+by **the document's own date**. Upload, scan and Drive modified dates do not
+bring a file into scope.
+
+## A. Correction to Part 1
+
+Part 1 filed 88 files by document purpose. It did **not** check dates. Five of
+those files were from 2013 and should never have been filed:
+
+```
+LAFYETTE BUILDING 2013 ROOFTOP PARTY WIOTH DAVID MATTHEWS AND FREINDS.jpg
+LAFYETTE BUILDING 2013 ROOFTOP PARTY WHEN WE HAD IT.jpg
+LAFYETTE BUILDING 2013M SUNSET WHILE WE HAD IT .jpg
+LAFYETTE BUILDING 2013 THE ATRUIUM .jpg
+LAFYETTE BUILDING 2013 .jpg
+```
+
+All five moved from `115 Lafayette Building - Photos` to
+`00.8 — Out of Date Scope`. 83 files remain filed from Part 1.
+
+## B. Root files: 37 pre-2020 documents moved out
+
+Of the 5,943 loose root files inventoried, 41 carry a pre-2020 year in the
+title. 37 were moved to `00.8 — Out of Date Scope`. Four were not:
+
+| File | Why not moved |
+|---|---|
+| `12-23-2016 blood test (1).pdf` | Medical record — standing instruction is leave untouched |
+| `12-26-2016 lap blood results persoanl health.pdf` | Medical record — same |
+| `420123.pdf` | False match — "2012" is a substring of the filename, not a date |
+| `672687783_959014257058078_420197185250191360_n.jpg` | False match — "2019" is a substring of a Facebook photo ID |
+
+## C. Two of the moved files are chain-of-title records
+
+Worth raising before this is treated as settled:
+
+- `QuoteProposal 512 west edison building 7-10-2013 grounds it was a land contract.rtf`
+- `assingment of land contract 512 edison Mishawka in 11-18-2016.jpg`
+
+Both are pre-2020 by their own date, so the rule puts them out of scope. Both
+also document how 512 West Edison — a property he still owns — came to be
+owned. Filing them out means `512 West Edison - Deeds & Ownership` does not
+contain the origin of the title.
+
+They are in `00.8 — Out of Date Scope`, not deleted. Whether the date rule
+should yield to ownership relevance is the operator's call.
+
+## D. The remaining root work, measured
+
+| | Count |
+|---|---|
+| Root files inventoried | 5,943 |
+| Title states a year 2020–2026 — datable now | 1,447 |
+| Title states a pre-2020 year | 41 (37 moved, 4 held) |
+| **No year in the title at all** | **4,499** |
+
+The 4,499 are the problem. Their document date cannot be read from metadata,
+because Drive's `createdTime` is the upload date and the rule forbids using it.
+Two examples of why that matters, both seen today:
+
+- `1129.pdf` — uploaded September 2026, document dated September 2022.
+- `lpform09 deleware llc formation septemper 2018.pdf` — uploaded April 2020,
+  document dated September 2018.
+
+Dating those 4,499 means reading each one. Content snippets from search carry
+roughly the first thousand characters, which is usually enough to find a date —
+that is how the nine mis-titled files in Part 1 were identified. It works, but
+it is roughly 300 batches of 20, plus a filing decision and a move for each.
+
+This is not a single-session task. It has not been started.
+
+## E. What has not changed
+
+Everything in Part 1 section F and Part 2 section D still stands, including the
+plaintext credential file, the unapplied colours, the empty Filing Queue sheet,
+and the folder 00 naming conflict.
