@@ -66,15 +66,53 @@ Held: `_document1937 johnson` — 23 MB, snippet empty, date not readable.
 Note: the water application form carries a social security number field. Filed
 as a utility record; contents not reproduced anywhere.
 
+### 115 Lafayette Building — 5 filed
+All five are the City of South Bend `Request for Proposals — Rehabilitation and
+Adaptive Reuse of The Lafayette Building`, release date **22 September 2022**,
+submission deadline 26 January 2023. One Doc plus four identical PDFs.
+→ `115 Lafayette Building - Purchase & Closing Documents`. All copies kept.
+
+### 520 27th Street — 2 filed, 2 OUT OF SCOPE
+| File | Date read from text | Destination |
+|---|---|---|
+| 520 27th street .pdf | Tax deed petition notice 8 Sep 2026 | Property Taxes |
+| LTIPrint 520 29th street | Tax sale record, tax year 2019 / pay year 2020, printed Apr 2020 | Property Taxes |
+| my properties 520 s 27th ... AFFIRMED DEMO ORDER ... UPDATED 10/2/19 | Hearing dates 2018–2019 | `00.8 — Out of Date Scope` |
+| bbbc 520 27th street ... eviction lace cutler case summary | Case filed 31 Jul 2018 | `00.8 — Out of Date Scope` |
+
+### 919 Portage Ave — 7 filed
+`919 Portage Ave - A Regenerative Case Study` — four copies in root, three more
+already sitting in the property folder. Reading it settled an earlier question:
+it is not marketing. It is a deconstruction record by reGen South Bend LLC dated
+**5 June 2026**, covering asbestos removal, material salvage and waste hauls.
+→ `919 Portage Ave - Maintenance & Repairs`. This clears the "no matching
+category" hold recorded in Part 1 section F item 4.
+
+### Found while searching, filed elsewhere
+| File | Date read from text | Destination |
+|---|---|---|
+| PSA_Plymouth Plaza_FINAL.pdf | Purchase and sale agreement, Plymouth Plaza, 2024 | `02 ACTIVE DEALS - Offers` |
+| S Kollar Property Data Form (rev 11 11 22) (5) | Borrower property data form 16 Jun 2023, SFR Fund 11 LLC | `02 ACTIVE DEALS - Financing Applications` |
+
+### Not records — left in root
+`ILtinleypark_Redacted.pdf` ×2 (Tinley Park IL land listing, matched on "park"),
+`CheapOair - CrossSell` (travel site capture), `Phoenix, for the Lincoln Tower
+Apartments at 520 S` (Springfield IL analysis, matched on "520 S"), and a
+business-coaching email that merely mentions Parkmore in a list.
+
+
 ---
 
 ## Running totals
 
 | | Count |
 |---|---|
-| Root files read and decided | 25 |
-| Filed into the structure | 14 |
-| Moved to `00.8 — Out of Date Scope` | 3 |
+| Root files read and decided | 45 |
+| Filed into the structure | 26 |
+| Moved to `00.8 — Out of Date Scope` | 5 |
 | Held — no category, unreadable, or empty | 5 |
-| Not records (web-page captures) | 3 |
-| **Root files remaining** | **~5,890** |
+| Not records (web-page captures, false matches) | 9 |
+| **Root files remaining** | **~5,870** |
+
+Separately, 3 files already sitting loose in `919 Portage Ave` were filed once
+reading established what they were.
