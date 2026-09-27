@@ -306,3 +306,114 @@ These are outside this run's scope but remain unresolved:
   `filing-queue-rows-20260924.csv` and need to be pasted in by hand.
 - Roughly 6,000 loose files remain at the Drive root, about half of them in
   same-name clusters. Not started.
+
+---
+
+# Part 2 — Master folder breakdown (section 6A, all levels)
+
+Run date: 2026-09-27, following Part 1.
+Scope widened by the operator from "property folders only" to every master
+folder, per section 6A: *"Apply this same structure inside every main folder…
+The same pattern repeats at each level below."*
+
+## A. Summary
+
+**Collapsed the doubled numbered layer.** Fourteen masters each contained an
+old numbered folder left over from the earlier SRF 11 pass — `03 — OWNED REAL
+ESTATE PORTFOLIO` held `03 — PROPERTY PORTFOLIO`, `06 — LEGAL` held
+`09 — LEGAL & COMPLIANCE`, and so on. Their 87 subfolders were moved up one
+level into the master, and the 14 now-empty shells were moved to Drive trash.
+This reverses the earlier "move each SRF 11 folder in whole" decision, on the
+operator's explicit instruction.
+
+**Renamed 87 subfolders** to `[NN Master Name] - [Category]`, the operator's
+chosen variant (number retained for sort order).
+
+**18 named folders kept their names** — legal matters, specific deals, dated
+statement batches. Same treatment the skill gives a property address.
+
+## B. What each master looks like now
+
+| Master | Category subfolders renamed | Named folders kept |
+|---|---|---|
+| 00 — INBOX & FILE CONTROL | 0 — see blocker 1 | — |
+| 01 — MISSION CONTROL | 5 | 1 (Iron Phoenix Planning) |
+| 02 — ACTIVE DEALS & ACQUISITIONS | 7 | 2 |
+| 03 — OWNED REAL ESTATE PORTFOLIO | 5 | 1 (_TEMPLATE) |
+| 04 — CONSTRUCTION & REHAB | 6 | — |
+| 05 — PROPERTY MANAGEMENT & TENANTS | 6 | — |
+| 06 — LEGAL — RESTRICTED | 5 | 11 matter folders |
+| 07 — FINANCE, BANKING & TAX — RESTRICTED | 8 | 2 |
+| 08 — COMPANIES & ENTITY RECORDS | 7 | — |
+| 09 — INVESTORS, LENDERS & CAPITAL | 0 — empty | — |
+| 10 — TEAM, HR & ACCOUNTABILITY — RESTRICTED | 6 | — |
+| 11 — VENDORS, CONTRACTORS & PROFESSIONALS | 7 | — |
+| 12 — 911 ACQUISITIONS & SPECIAL SITUATIONS | 0 — empty | — |
+| 13 — MARKETING, BRAND & SALES | 7 | — |
+| 14 — SYSTEMS, SOPs & TEMPLATES | 14 | 2 |
+| 15 — RESEARCH & REFERENCE LIBRARY | 0 — empty | — |
+| 90 — CLOSED, SOLD & COMPLETED | 0 — empty | — |
+| 99 — ARCHIVE — NOT ACTIVE WORK | 4 | — |
+| **Total** | **87** | **19** |
+
+## C. Change and recovery log
+
+- **87 folders moved** up one level. Reversal: move back into the shell (each
+  shell is recoverable from Drive trash).
+- **14 empty shells trashed**, verified empty by query immediately before —
+  they held no files and no folders. Recoverable from Drive trash.
+- **87 folders renamed.** Only the title changed; no file moved, no ID changed,
+  every link still resolves. Reversal: the prior name is the part after " - ".
+- **No file was moved, edited, renamed, or deleted in Part 2.**
+- **No permissions changed. No colours applied** — still unavailable.
+
+## D. Decisions and blockers
+
+### 1. Folder 00's subfolders were left alone — two schemes collide
+
+`00 — INBOX & FILE CONTROL` carries the `00.1 — New Uploads` … `00.9 — Filing
+Queue & Master Index` scheme, which the phoenix-drive-control skill specifies
+by exact name. Renaming those to the `[Parent] - [Category]` pattern would
+break that skill's mandated names and destroy the 00.x sort order. The two
+skills genuinely conflict here, so nothing in folder 00 was renamed.
+
+**Also:** the collapse moved five old inbox folders up beside them, and they
+duplicate the purpose of existing ones — `New Uploads` next to
+`00.1 — New Uploads`, `Scanned Documents` next to `00.2 — Scanned Documents`,
+`Possible Duplicates`, `Needs Identification`, and `Needs Review`. Three of
+them hold real files. Merging means comparing and moving documents, which is a
+filing decision, so they were left side by side rather than merged.
+
+Needs a decision: which scheme wins for folder 00, and whether the five
+duplicates should be merged into the `00.x` equivalents.
+
+### 2. Named folders got no categories inside them
+
+The operator chose "keep their names, break down inside." The names were kept.
+No categories were created inside them, because section 6A says: *"If an
+existing main folder has no category list in section 6 and is not a property
+folder, do not invent categories."* The section 6 table in this skill lists
+categories for a completely different set of folders (AION AI Tools, Dynamic
+Enterprises LLC, Dream Property Preservation LLC) that do not exist in this
+Drive, so no list applies to a legal matter or a specific deal.
+
+The 19 affected: 11 legal matter folders under 06, two deals under 02, two
+dated statement batches under 07, two review batches under 14, Iron Phoenix
+Planning under 01, and the property template under 03.
+
+Needs a decision: supply a category list for matter folders and deal folders,
+or leave them as flat folders.
+
+### 3. Four masters are completely empty
+
+`09 — INVESTORS, LENDERS & CAPITAL`, `12 — 911 ACQUISITIONS & SPECIAL
+SITUATIONS`, `15 — RESEARCH & REFERENCE LIBRARY`, and `90 — CLOSED, SOLD &
+COMPLETED` contain no subfolders and no files. No category list exists for
+them in section 6 either, so nothing was created. They are 🟥 RED — the
+structure calls for them but there is nothing in them yet.
+
+### 4. Everything in Part 1 section F still stands
+
+The plaintext credential file, the unapplied colours, the empty Filing Queue
+sheet, the missing permissions on the RESTRICTED folders, and the ~6,000 loose
+files at the Drive root are all unchanged by this pass.
