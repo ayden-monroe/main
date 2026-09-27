@@ -101,18 +101,69 @@ Apartments at 520 S` (Springfield IL analysis, matched on "520 S"), and a
 business-coaching email that merely mentions Parkmore in a list.
 
 
+### Mini Mountain RV Resort — 1 filed, 3 to Needs Review
+| File | What reading revealed | Destination |
+|---|---|---|
+| c1656679-b3aa-40fa-851b-21f2bbdd8164.pdf | **CBRE Offering Memorandum, Mini Mountain RV Resort, New Carlisle IN**, 2026 | Purchase & Closing Documents |
+| Vault - Mini Mountain RV Resort (Unzipped Files) | Folder — the archive was already extracted | Needs Review |
+| Vault - Mini Mountain RV Resort (1) (Unzipped Files) | Folder — second extraction | Needs Review |
+| Vault - Mini Mountain RV Resort.zip | Fourth copy of the archive, found at root | Needs Review |
+
+The offering memorandum had a meaningless UUID filename. Nothing but reading it
+would have found it. **Also significant:** two "(Unzipped Files)" folders exist
+at root, so the Mini Mountain archives have already been extracted once. The
+same may be true for Northgate, Chiafos and Value Add Retail — worth checking
+before anyone extracts them again.
+
+### Found while searching, filed elsewhere
+| File | Date read from text | Destination |
+|---|---|---|
+| Sierra_Condos_Investment_Summary.pdf | Texas multifamily offering, 2026 | `02 ACTIVE DEALS - Leads & Opportunities` |
+| Sierra_Condos_PPM_Final.pdf | Private placement memorandum, Dec 2025 | `02 ACTIVE DEALS - Leads & Opportunities` |
+
+### Search queries that were too loose
+Three of four queries this round matched on a fragment rather than the property:
+`Indiana Beach` matched every document containing "Indiana", `Country View`
+matched "View", and `Northgate` matched a trust name inside an unrelated
+Attorney General complaint. Future rounds need the full distinctive phrase.
+
+### Held for a decision — third-party litigation at root
+Court filings in cases Mr Kollar is not a party to, all 2024–2025 and so in
+scope by date, but none belongs to a property or to one of his own matters:
+`Reply in Support of Motion to Ap.pdf` (KeyBank v Matthews, Jun 2025),
+`Exhibit 1 - Declaration of K. Co (3).pdf` (Li v Longview, Feb 2024),
+`Lei Zhao_Complaint (Final to Fil.pdf` (State of Indiana v Lei Zhao, Dec 2024).
+
+These read as research — other operators' cases kept for reference. There is no
+category for that. `15 — RESEARCH & REFERENCE LIBRARY` exists but is empty and
+has no category list, so nothing was invented. Needs a decision.
+
+### Held — templates
+Four copies of `Crystal View Capital Fund IV LP - Private Placement
+Memorandum`, dated November 2022. One is titled "master template to duplicate
+for our fund phoniex", so these are another firm's PPM kept as a model. In
+scope by date; no obvious home between `14 SYSTEMS, SOPs & TEMPLATES` and the
+empty `09 — INVESTORS, LENDERS & CAPITAL`.
+
+### Not records — left in root
+A Continental Properties job board capture, a ChatGPT interface capture, an
+American Express status page, and a 2024 news article on the Indiana Attorney
+General's office. Also a personal health and age chat, left untouched.
+
+
 ---
 
 ## Running totals
 
 | | Count |
 |---|---|
-| Root files read and decided | 45 |
-| Filed into the structure | 26 |
+| Root files read and decided | 65 |
+| Filed into the structure | 29 |
+| Moved to a `Needs Review` subfolder | 3 |
 | Moved to `00.8 — Out of Date Scope` | 5 |
-| Held — no category, unreadable, or empty | 5 |
-| Not records (web-page captures, false matches) | 9 |
-| **Root files remaining** | **~5,870** |
+| Held — no category, unreadable, or awaiting a decision | 12 |
+| Not records (web-page captures, false matches) | 16 |
+| **Root files remaining** | **~5,850** |
 
 Separately, 3 files already sitting loose in `919 Portage Ave` were filed once
 reading established what they were.
