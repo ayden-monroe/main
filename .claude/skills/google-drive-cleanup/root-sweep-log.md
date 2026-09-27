@@ -151,19 +151,69 @@ American Express status page, and a 2024 news article on the Indiana Attorney
 General's office. Also a personal health and age chat, left untouched.
 
 
+### ⚠ Park More Plaza and Value Add Retail - 2024 Roof are the same building
+
+Four documents read this round all describe **1104 West Bristol Street,
+Elkhart, Indiana 46514** under three different names:
+
+| Document | Name it uses | Date |
+|---|---|---|
+| Carlisle roofing warranty (filed earlier) | PARKMOR PLAZA | Apr 2024 |
+| AEI Property Condition Report | Value Add Multi-Tenant Retail | 5 Jun 2026 |
+| EBI Phase I Environmental Site Assessment | Shops on Bristol | 9 Dec 2024 |
+| rx_Comm_Lease_Deposit.pdf | Parkmor Plaza (1104) | 2 Dec 2024 |
+
+`Park More Plaza` and `Value Add Retail - 2024 Roof` are therefore two folders
+for one asset, each with its own 14 categories, and its records are being split
+between them.
+
+**No folders were merged.** Each document went to the folder matching the name
+in its own text. Merging is the operator's call.
+
+### Value Add Retail - 2024 Roof — 2 filed, 2 folders to Needs Review
+| File | Date read from text | Destination |
+|---|---|---|
+| 529097-LPCA Elkhart, Indiana (1104 West Bristol Street) - Final.pdf | AEI Property Condition Report, 5 Jun 2026 | Inspections |
+| Environmental_1130-1220_W_Bristol_St_Elkhart_IN_465142100.pdf | EBI Phase I ESA, 9 Dec 2024 | Inspections |
+| `Value Add Multi-Tenant Retail - New 2024 Roof` ×2 | Duplicate property folders sitting at root | Needs Review |
+
+### Park More Plaza — 1 filed
+`rx_Comm_Lease_Deposit.pdf` — commercial lease deposit schedule for Parkmor
+Plaza (1104), four tenants, as of 2 Dec 2024 → Lease & Tenant Documents.
+
+### Chiafos / Indiana Beach — 2 folders to Needs Review
+Two more `Vault - Chiafos Rental Resort (Unzipped Files)` folders found at root.
+As with Mini Mountain, those archives were already extracted.
+
+### Kollar v Massa and Mackowiak — 3 filed
+| File | Date read from text | Destination |
+|---|---|---|
+| Massa_Mackowiak_9_Complaint_Worklist.xlsm | Worklist, Sep 2026 | `06 LEGAL / Kollar v Massa and Mackowiak — Matter Records` |
+| Massa_Mackowiak_9_Complaint_Worklist (1).xlsm | Same worklist, Sep 2026 | same |
+| Find state court dockets mentioning Frank D. Massa.pdf | Docket research, Oct 2025 | same |
+
+### Left untouched — could not place them
+Per the operator's instruction, anything without a clear destination stays
+where it is and is not listed for a decision: a shortcut to a 2023 Chiafos
+proforma (a shortcut, not a file), a Diplomat Plaza analysis for a Michigan
+property with no folder, a receivership multifamily archive, two near-empty
+sheets titled "massa 2026" and "Massa 2025" whose contents do not match their
+titles, and a negotiation email that does not name its property.
+
+
 ---
 
 ## Running totals
 
 | | Count |
 |---|---|
-| Root files read and decided | 65 |
-| Filed into the structure | 29 |
-| Moved to a `Needs Review` subfolder | 3 |
+| Root files read and decided | 85 |
+| Filed into the structure | 35 |
+| Moved to a `Needs Review` subfolder | 7 |
 | Moved to `00.8 — Out of Date Scope` | 5 |
-| Held — no category, unreadable, or awaiting a decision | 12 |
+| Left untouched — no clear destination | 22 |
 | Not records (web-page captures, false matches) | 16 |
-| **Root files remaining** | **~5,850** |
+| **Root files remaining** | **~5,830** |
 
 Separately, 3 files already sitting loose in `919 Portage Ave` were filed once
 reading established what they were.
