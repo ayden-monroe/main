@@ -11,13 +11,17 @@ Run date: 2026-09-27
 
 ## A. Summary
 
-**Built:** 210 subfolders — the 14 required categories inside each of the 15
-active property folders, in the section 6A order, named
-`[Parent Folder Name] - [Category]`.
+**Built:** 214 subfolders. The 14 required categories inside each of the 15
+active property folders (210), in the section 6A order, named
+`[Parent Folder Name] - [Category]`. Plus 4 `Needs Review` subfolders, added on
+the operator's instruction to give unidentifiable files a named home rather
+than leaving them loose — same naming pattern, so they read as part of the
+structure.
 
 **Sorted:** 93 loose files sat directly in the 15 property folders.
-**75 were filed** into the matching category subfolder. **18 were not filed**
-and remain where they were — each is listed in section F with the reason.
+**88 were filed** — 75 into a matching category subfolder, 13 into
+`Needs Review`. **5 were not filed** by the operator's decision and remain
+where they were — each is listed in section F with the reason.
 
 **Not done — cannot be done through this connector:** folder colors
 (section 7). See section F, item 1. Colors were **not** applied. The status
@@ -51,14 +55,18 @@ not be classified is RED, because red overrides yellow overrides green.
 | 6 | 24255 Huron | 🟩 GREEN | 4 | 0 |
 | 7 | 520 27th Street | 🟩 GREEN | 1 | 0 |
 | 8 | 919 Portage Ave | 🟥 RED | 0 | 3 |
-| 9 | Chiafos / Indiana Beach | 🟥 RED | 14 | 4 |
+| 9 | Chiafos / Indiana Beach | 🟨 YELLOW | 18 | 0 |
 | 10 | Massa and Duane farm | 🟥 RED | 1 | 2 |
-| 11 | Northgate | 🟥 RED | 0 | 3 |
-| 12 | Mini Mountain RV Resort | 🟥 RED | 0 | 3 |
-| 13 | Value Add Retail - 2024 Roof | 🟥 RED | 0 | 3 |
+| 11 | Northgate | 🟨 YELLOW | 3 | 0 |
+| 12 | Mini Mountain RV Resort | 🟨 YELLOW | 3 | 0 |
+| 13 | Value Add Retail - 2024 Roof | 🟨 YELLOW | 3 | 0 |
 | 14 | Park More Plaza | 🟩 GREEN | 6 | 0 |
 | 15 | Country View MHP | 🟩 GREEN | 3 | 0 |
-|   | **Total** | | **75** | **18** |
+|   | **Total** | | **88** | **5** |
+
+The four properties holding archives are YELLOW, not RED: their files now have
+a home, but the contents are unverified, which is exactly what partial /
+needs-review means.
 
 Every property folder contains all 14 subfolders below it, in this order:
 
@@ -79,13 +87,20 @@ Purchase & Closing Documents
 Mortgage & Financing
 ```
 
+Four properties carry a 15th subfolder, `[Property] - Needs Review`:
+Northgate, Mini Mountain RV Resort, Value Add Retail - 2024 Roof, and
+Chiafos / Indiana Beach. These were created only where something needed one;
+the other eleven properties have no such folder.
+
 Subfolder status: the 24 subfolders listed in section C are 🟩 GREEN.
-The remaining 186 subfolders are 🟨 YELLOW — created, correctly named, and
-empty. No folder was marked 🟪 PURPLE; nothing in this scope was identified as
-historical or superseded.
+The 4 `Needs Review` subfolders are 🟨 YELLOW by definition. The remaining 186
+are 🟨 YELLOW — created, correctly named, and empty. No folder was marked
+🟪 PURPLE; nothing in this scope was identified as historical or superseded.
 
 Verification: a folder listing across all 15 parents returned exactly 210
-subfolders — 14 per parent, 15 of each category name, no duplicates.
+category subfolders — 14 per parent, 15 of each category name, no duplicates.
+The 4 `Needs Review` folders were added after that check and bring the total
+to 214.
 
 ---
 
@@ -114,6 +129,10 @@ Destination subfolders that received files, and what went into each.
 | Park More Plaza | Purchase & Closing Documents | 1 | Updated offer document |
 | Park More Plaza | Maintenance & Repairs | 1 | Carlisle 20-year roofing warranty, issued 24 Apr 2024 |
 | Country View MHP | Purchase & Closing Documents | 3 | Offering memorandum, 26 June 2026 |
+| Northgate | Needs Review | 3 | Archives — contents unread |
+| Mini Mountain RV Resort | Needs Review | 3 | Archives — contents unread |
+| Value Add Retail - 2024 Roof | Needs Review | 3 | Archives — contents unread |
+| Chiafos / Indiana Beach | Needs Review | 4 | 3 archives plus a same-named document — contents unread |
 
 Nine files carried titles that did not describe their contents. Each was
 identified by reading the document before filing, not by guessing from the
@@ -145,14 +164,14 @@ others can go, and that is the operator's call.
 | Chiafos / Indiana Beach | `Chiafos_Indiana_Beach_Acquisition_Model` (+ `(1)` variants) | 8 | All filed to Purchase & Closing Documents. Kept. |
 | Chiafos / Indiana Beach | `Chiafos_Indiana_Beach_Acquisition_Report.pdf` | 2 | All filed to Purchase & Closing Documents. Kept. |
 | Chiafos / Indiana Beach | `Indiana Beach Acquisition Proposal` | 2 | All filed to Purchase & Closing Documents. Kept. |
-| Chiafos / Indiana Beach | `Vault - Chiafos Rental Resort.zip` | 3 + 1 doc | Not filed — see section F. Kept. |
+| Chiafos / Indiana Beach | `Vault - Chiafos Rental Resort.zip` | 3 + 1 doc | Filed to Needs Review. Kept. |
 | Park More Plaza | `277home.com Mail - Re_ Park More Plaza idea` | 4 | All filed to Property Management & Correspondence. Kept. |
 | Country View MHP | `Country View Offering Memorandum 6-26-26` | 3 | All filed to Purchase & Closing Documents. Kept. |
 | 24255 Huron | `24255 surplus.pdf` | 2 (identical size) | Both filed to Property Taxes. Kept. |
 | 1129 Huey | `1129 huey trust` scans | 2 PDFs + 3 JPGs | All filed to Deeds & Ownership. Kept. |
-| Mini Mountain RV Resort | `Vault - Mini Mountain RV Resort.zip` | 3 (identical size) | Not filed — see section F. Kept. |
-| Value Add Retail - 2024 Roof | `Value Add Multi-Tenant Retail ... Documents.zip` | 3 (identical size) | Not filed — see section F. Kept. |
-| Northgate | `Northgate_*.zip` | 3 | Not filed — see section F. Kept. |
+| Mini Mountain RV Resort | `Vault - Mini Mountain RV Resort.zip` | 3 (identical size) | Filed to Needs Review. Kept. |
+| Value Add Retail - 2024 Roof | `Value Add Multi-Tenant Retail ... Documents.zip` | 3 (identical size) | Filed to Needs Review. Kept. |
+| Northgate | `Northgate_*.zip` | 3 | Filed to Needs Review. Kept. |
 | 919 Portage Ave | `919 Portage Ave - A Regenerative Case Study` | 3 | Not filed — see section F. Kept. |
 | 512 West Edison | `PROS_512_W_Edison_Invoice_Template` | 3 | All filed to Invoices & Receipts. Kept. |
 
@@ -167,11 +186,11 @@ including at the Drive root. Those copies were not touched.
 Every change made in this run. All are reversible — nothing was deleted, and
 every moved file's original parent is recorded here.
 
-**Created:** 210 folders. All are new and empty except the 24 listed in
-section C. Recovery: deleting a created folder restores the prior state, since
-each was empty at creation.
+**Created:** 214 folders — 210 category subfolders plus 4 `Needs Review`.
+All are new and empty except the 28 listed in section C. Recovery: deleting a
+created folder restores the prior state, since each was empty at creation.
 
-**Moved:** 75 files. Each move changed only the file's parent. No file was
+**Moved:** 88 files. Each move changed only the file's parent. No file was
 renamed, edited, copied, or trashed. Recovery: each file's original parent is
 its property folder — the parent of the subfolder it now sits in. To reverse
 any move, set the file's parent back to that property folder.
@@ -186,18 +205,21 @@ Move counts by source property folder:
 1937 Johnson                   4 files -> 1 subfolder
 24255 Huron                    4 files -> 2 subfolders
 520 27th Street                1 file  -> 1 subfolder
-Chiafos / Indiana Beach       14 files -> 1 subfolder
+Chiafos / Indiana Beach       18 files -> 2 subfolders
 Massa and Duane farm           1 file  -> 1 subfolder
+Northgate                      3 files -> 1 subfolder
+Mini Mountain RV Resort        3 files -> 1 subfolder
+Value Add Retail - 2024 Roof   3 files -> 1 subfolder
 Park More Plaza                6 files -> 3 subfolders
 Country View MHP               3 files -> 1 subfolder
 ```
 
-**Unchanged:** 18 files left exactly where they were (section F).
+**Unchanged:** 5 files left exactly where they were (section F).
 No folder colours were changed — the connector cannot change them.
 No permissions were changed.
 No files outside the 15 property folders were touched.
 
-Full folder ID map: `property-subfolders.tsv` (210 rows, tab-separated:
+Full folder ID map: `property-subfolders.tsv` (214 rows, tab-separated:
 parent ID, subfolder ID, subfolder title).
 
 ---
@@ -232,23 +254,23 @@ manager and delete the sheet, or at minimum restrict the sheet's sharing. Until
 then anyone with access to this Drive folder has those accounts. Nothing further
 will be done with this file without instruction.
 
-### 3. Thirteen `.zip` archives could not be classified
+### 3. Thirteen archives — resolved, filed to Needs Review
 
 Their contents cannot be read through this connector, and the filenames do not
-say which category the contents belong to. They were left in place.
+say which category the contents belong to. On the operator's instruction they
+were moved into a `[Property] - Needs Review` subfolder rather than left loose,
+so nothing sits unfiled and nothing is guessed into the wrong category.
 
-| Property | Archives |
+| Property | Items moved to Needs Review |
 |---|---|
 | Northgate | 3 (`Northgate_2026-08-12_Project Files.zip`, two dated exports) |
 | Mini Mountain RV Resort | 3 (`Vault - Mini Mountain RV Resort`, 166 MB each, identical size) |
 | Value Add Retail - 2024 Roof | 3 (`Value Add Multi-Tenant Retail ... Documents`, identical size) |
 | Chiafos / Indiana Beach | 4 (3 `Vault - Chiafos Rental Resort` zips, 31 MB each, plus a document of the same name) |
 
-Options, for the operator to pick: (a) file them all under each property's
-*Purchase & Closing Documents*, on the reading that they are acquisition
-data-room downloads — plausible but unverified; (b) extract one of each set
-outside Drive, see what is inside, then file properly; (c) leave them.
-Nothing will be done until told which.
+Still open, whenever there is time: extract one archive from each set outside
+Drive, see what is inside, and move the contents into the proper categories.
+Until then they are parked, not lost.
 
 ### 4. Two files have no matching category
 
@@ -260,8 +282,8 @@ Nothing will be done until told which.
   Moving it out would mean touching a folder outside the approved scope, so it
   was left alone. It contains no actual passwords.
 
-Options: add a category, file them somewhere outside the property folders, or
-leave them. Needs a decision.
+Operator's decision: leave both where they are and record them here. Neither
+was moved.
 
 ### 5. Files identical in size are not confirmed identical in content
 
