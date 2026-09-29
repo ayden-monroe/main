@@ -1,0 +1,640 @@
+EMPTY FOLDERS REPORT — SORTED BY AI
+Scanned: 2026-09-29
+Empty folders found: 477
+
+SORTED BY AI > 00 — INBOX & FILE CONTROL
+    00.1 — New Uploads
+    00.2 — Scanned Documents
+    00.3 — Email Attachments
+    00.4 — Needs Identification
+    00.5 — Possible Duplicates
+    00.6 — Needs Review & Decision
+    00.7 — TO BE DETERMINED
+    00.8 — Out of Date Scope
+    00.9 — Filing Queue & Master Index
+
+SORTED BY AI > 00 — INBOX & FILE CONTROL > 00.4 — Needs Identification
+    Unidentified — needs review
+
+SORTED BY AI > 00 — INBOX & FILE CONTROL > 00.6 — Needs Review & Decision
+    Attorney Assistant practice materials
+
+SORTED BY AI > 00 — INBOX & FILE CONTROL > 00.9 — Filing Queue & Master Index
+    Retired empty - Needs Identification
+    Retired empty - Needs Review
+    Retired empty - New Uploads
+    Retired empty - Possible Duplicates
+    Retired empty - Scanned Documents
+
+SORTED BY AI > 01 — MISSION CONTROL
+    01 MISSION CONTROL - Dashboards
+    01 MISSION CONTROL - Deadlines & Follow-Up
+    01 MISSION CONTROL - Decisions & Approvals
+    01 MISSION CONTROL - Meeting Records
+    01 MISSION CONTROL - Responsibility Matrix
+    Iron Phoenix Planning
+
+SORTED BY AI > 02 — ACTIVE DEALS & ACQUISITIONS
+    02 ACTIVE DEALS & ACQUISITIONS - Buyer & Seller Contacts
+    02 ACTIVE DEALS & ACQUISITIONS - Due Diligence
+    02 ACTIVE DEALS & ACQUISITIONS - Financing Applications
+    02 ACTIVE DEALS & ACQUISITIONS - Leads & Opportunities
+    02 ACTIVE DEALS & ACQUISITIONS - Marketing Listings
+    02 ACTIVE DEALS & ACQUISITIONS - Offers
+    02 ACTIVE DEALS & ACQUISITIONS - Transaction Tracking
+    Elkhart IN — Purchase Agreement Review
+    Wyndham City Centre — Acquisition
+
+SORTED BY AI > 02 — ACTIVE DEALS & ACQUISITIONS > 02 ACTIVE DEALS & ACQUISITIONS - Due Diligence
+    168-Unit Multifamily Underwriting
+    Title commitments and notes
+
+SORTED BY AI > 02 — ACTIVE DEALS & ACQUISITIONS > 02 ACTIVE DEALS & ACQUISITIONS - Leads & Opportunities
+    911 Acquisitions
+    Arbor One West
+    Auction listings
+    Cascade South Bend
+    Elkhart Value-Add Retail
+    Krueckeberg office furniture auction
+    Other deals and one-offs
+    Springfield IL Tower project
+    Super 8 South Bend
+    Wyndham City Centre
+
+SORTED BY AI > 02 — ACTIVE DEALS & ACQUISITIONS > 02 ACTIVE DEALS & ACQUISITIONS - Marketing Listings
+    Other property listings and reports
+
+SORTED BY AI > 03 — OWNED REAL ESTATE
+    03 OWNED REAL ESTATE PORTFOLIO - Active Properties
+    03 OWNED REAL ESTATE PORTFOLIO - Inactive Properties
+    03 OWNED REAL ESTATE PORTFOLIO - Portfolio Reports
+    03 OWNED REAL ESTATE PORTFOLIO - Properties Under Contract
+    03 OWNED REAL ESTATE PORTFOLIO - Sold Properties
+    _TEMPLATE — Standard Property Folder (copy for each property)
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties
+    1104 W Bristol St - Parkmor Plaza (Shops on Bristol)
+    1129 Huey
+    115 Lafayette Building
+    1919 Marquette
+    1937 Johnson
+    24255 Huron
+    512 West Edison
+    520 27th Street
+    919 Portage Ave
+    Chiafos / Indiana Beach
+    Country View MHP
+    Massa and Duane farm
+    Mini Mountain RV Resort
+    Northgate
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 115 Lafayette Building
+    115 Lafayette Building - Deeds & Ownership
+    115 Lafayette Building - Inspections
+    115 Lafayette Building - Insurance
+    115 Lafayette Building - Invoices & Receipts
+    115 Lafayette Building - Lease & Tenant Documents
+    115 Lafayette Building - Legal
+    115 Lafayette Building - Maintenance & Repairs
+    115 Lafayette Building - Mortgage & Financing
+    115 Lafayette Building - Permits & Code Enforcement
+    115 Lafayette Building - Property Management & Correspondence
+    115 Lafayette Building - Property Taxes
+    115 Lafayette Building - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 512 West Edison
+    512 West Edison - Deeds & Ownership
+    512 West Edison - Inspections
+    512 West Edison - Insurance
+    512 West Edison - Lease & Tenant Documents
+    512 West Edison - Mortgage & Financing
+    512 West Edison - Permits & Code Enforcement
+    512 West Edison - Property Management & Correspondence
+    512 West Edison - Property Taxes
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 520 27th Street
+    520 27th Street - Deeds & Ownership
+    520 27th Street - Inspections
+    520 27th Street - Insurance
+    520 27th Street - Invoices & Receipts
+    520 27th Street - Lease & Tenant Documents
+    520 27th Street - Legal
+    520 27th Street - Maintenance & Repairs
+    520 27th Street - Mortgage & Financing
+    520 27th Street - Permits & Code Enforcement
+    520 27th Street - Photos
+    520 27th Street - Property Management & Correspondence
+    520 27th Street - Purchase & Closing Documents
+    520 27th Street - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 919 Portage Ave
+    919 Portage Ave - Deeds & Ownership
+    919 Portage Ave - Inspections
+    919 Portage Ave - Insurance
+    919 Portage Ave - Invoices & Receipts
+    919 Portage Ave - Lease & Tenant Documents
+    919 Portage Ave - Legal
+    919 Portage Ave - Mortgage & Financing
+    919 Portage Ave - Permits & Code Enforcement
+    919 Portage Ave - Photos
+    919 Portage Ave - Property Management & Correspondence
+    919 Portage Ave - Property Taxes
+    919 Portage Ave - Purchase & Closing Documents
+    919 Portage Ave - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 1104 W Bristol St - Parkmor Plaza (Shops on Bristol)
+    Park More Plaza - Deeds & Ownership
+    Park More Plaza - Insurance
+    Park More Plaza - Invoices & Receipts
+    Park More Plaza - Legal
+    Park More Plaza - Mortgage & Financing
+    Park More Plaza - Permits & Code Enforcement
+    Park More Plaza - Photos
+    Park More Plaza - Property Taxes
+    Park More Plaza - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 1104 W Bristol St - Parkmor Plaza (Shops on Bristol) > Legacy Empty Categories - Value Add Retail
+    Value Add Retail - 2024 Roof - Deeds & Ownership
+    Value Add Retail - 2024 Roof - Inspections
+    Value Add Retail - 2024 Roof - Insurance
+    Value Add Retail - 2024 Roof - Invoices & Receipts
+    Value Add Retail - 2024 Roof - Lease & Tenant Documents
+    Value Add Retail - 2024 Roof - Legal
+    Value Add Retail - 2024 Roof - Maintenance & Repairs
+    Value Add Retail - 2024 Roof - Mortgage & Financing
+    Value Add Retail - 2024 Roof - Permits & Code Enforcement
+    Value Add Retail - 2024 Roof - Photos
+    Value Add Retail - 2024 Roof - Property Management & Correspondence
+    Value Add Retail - 2024 Roof - Property Taxes
+    Value Add Retail - 2024 Roof - Purchase & Closing Documents
+    Value Add Retail - 2024 Roof - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 1104 W Bristol St - Parkmor Plaza (Shops on Bristol) > Parkmor Plaza - Legacy Archive Review > Value Add Multi-Tenant Retail - New 2024 Roof
+    Marketing
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 1129 Huey
+    1129 Huey - Inspections
+    1129 Huey - Insurance
+    1129 Huey - Invoices & Receipts
+    1129 Huey - Legal
+    1129 Huey - Maintenance & Repairs
+    1129 Huey - Mortgage & Financing
+    1129 Huey - Permits & Code Enforcement
+    1129 Huey - Photos
+    1129 Huey - Property Management & Correspondence
+    1129 Huey - Purchase & Closing Documents
+    1129 Huey - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 1919 Marquette
+    1919 Marquette - Inspections
+    1919 Marquette - Insurance
+    1919 Marquette - Invoices & Receipts
+    1919 Marquette - Mortgage & Financing
+    1919 Marquette - Permits & Code Enforcement
+    1919 Marquette - Photos
+    1919 Marquette - Property Taxes
+    1919 Marquette - Purchase & Closing Documents
+    1919 Marquette - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 1937 Johnson
+    1937 Johnson - Insurance
+    1937 Johnson - Invoices & Receipts
+    1937 Johnson - Lease & Tenant Documents
+    1937 Johnson - Legal
+    1937 Johnson - Maintenance & Repairs
+    1937 Johnson - Mortgage & Financing
+    1937 Johnson - Permits & Code Enforcement
+    1937 Johnson - Property Management & Correspondence
+    1937 Johnson - Property Taxes
+    1937 Johnson - Purchase & Closing Documents
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > 24255 Huron
+    24255 Huron - Inspections
+    24255 Huron - Insurance
+    24255 Huron - Invoices & Receipts
+    24255 Huron - Lease & Tenant Documents
+    24255 Huron - Legal
+    24255 Huron - Maintenance & Repairs
+    24255 Huron - Mortgage & Financing
+    24255 Huron - Permits & Code Enforcement
+    24255 Huron - Photos
+    24255 Huron - Property Management & Correspondence
+    24255 Huron - Purchase & Closing Documents
+    24255 Huron - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Chiafos / Indiana Beach
+    Chiafos / Indiana Beach - Deeds & Ownership
+    Chiafos / Indiana Beach - Inspections
+    Chiafos / Indiana Beach - Insurance
+    Chiafos / Indiana Beach - Invoices & Receipts
+    Chiafos / Indiana Beach - Lease & Tenant Documents
+    Chiafos / Indiana Beach - Legal
+    Chiafos / Indiana Beach - Maintenance & Repairs
+    Chiafos / Indiana Beach - Mortgage & Financing
+    Chiafos / Indiana Beach - Permits & Code Enforcement
+    Chiafos / Indiana Beach - Photos
+    Chiafos / Indiana Beach - Property Management & Correspondence
+    Chiafos / Indiana Beach - Property Taxes
+    Chiafos / Indiana Beach - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Country View MHP
+    Country View MHP - Deeds & Ownership
+    Country View MHP - Inspections
+    Country View MHP - Insurance
+    Country View MHP - Invoices & Receipts
+    Country View MHP - Lease & Tenant Documents
+    Country View MHP - Legal
+    Country View MHP - Maintenance & Repairs
+    Country View MHP - Mortgage & Financing
+    Country View MHP - Permits & Code Enforcement
+    Country View MHP - Photos
+    Country View MHP - Property Management & Correspondence
+    Country View MHP - Property Taxes
+    Country View MHP - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Massa and Duane farm
+    Massa and Duane farm - Deeds & Ownership
+    Massa and Duane farm - Inspections
+    Massa and Duane farm - Insurance
+    Massa and Duane farm - Invoices & Receipts
+    Massa and Duane farm - Lease & Tenant Documents
+    Massa and Duane farm - Maintenance & Repairs
+    Massa and Duane farm - Mortgage & Financing
+    Massa and Duane farm - Permits & Code Enforcement
+    Massa and Duane farm - Photos
+    Massa and Duane farm - Property Management & Correspondence
+    Massa and Duane farm - Property Taxes
+    Massa and Duane farm - Purchase & Closing Documents
+    Massa and Duane farm - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort
+    Mini Mountain RV Resort - Deeds & Ownership
+    Mini Mountain RV Resort - Inspections
+    Mini Mountain RV Resort - Insurance
+    Mini Mountain RV Resort - Invoices & Receipts
+    Mini Mountain RV Resort - Lease & Tenant Documents
+    Mini Mountain RV Resort - Legal
+    Mini Mountain RV Resort - Maintenance & Repairs
+    Mini Mountain RV Resort - Mortgage & Financing
+    Mini Mountain RV Resort - Permits & Code Enforcement
+    Mini Mountain RV Resort - Photos
+    Mini Mountain RV Resort - Property Management & Correspondence
+    Mini Mountain RV Resort - Property Taxes
+    Mini Mountain RV Resort - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort > Mini Mountain RV Resort - Needs Review > Vault - Mini Mountain RV Resort (1) (Unzipped Files)
+    Auction Terms and Conditions
+    Bank Statements Mar 2025 - Feb 2026
+    Expansion
+    Licenses & Certificates
+    Maintenance History
+    Maps - Reports - Environmental Studies
+    Marketing & Events
+    Miscellaneous
+    Personal Property
+    Property Taxes
+    Purchase Documents
+    Third Party Reports_Maps
+    Title
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort > Mini Mountain RV Resort - Needs Review > Vault - Mini Mountain RV Resort (1) (Unzipped Files) > 12.22.2025 Data Upload
+    Financials 12.22.2025
+    Insurance 12.22.2025
+    Leases & Intake Forms
+    Licenses & Certificates
+    Maps - Reports - Environmental Studies
+    Marketing & Events
+    Taxes
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort > Mini Mountain RV Resort - Needs Review > Vault - Mini Mountain RV Resort (1) (Unzipped Files) > 12.22.2025 Data Upload > Utlitiy Bills & Invoices 12.22.2025
+    Electric
+    Interent
+    Republic Services
+    Trash
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort > Mini Mountain RV Resort - Needs Review > Vault - Mini Mountain RV Resort (1) (Unzipped Files) > Financials
+    Archive
+    Financials 12.22.2025
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort > Mini Mountain RV Resort - Needs Review > Vault - Mini Mountain RV Resort (1) (Unzipped Files) > Insurance
+    Insurance 12.22.2025
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort > Mini Mountain RV Resort - Needs Review > Vault - Mini Mountain RV Resort (1) (Unzipped Files) > Leases
+    Leases & Intake Forms
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort > Mini Mountain RV Resort - Needs Review > Vault - Mini Mountain RV Resort (1) (Unzipped Files) > Service Contracts
+    WiFi Quotes
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort > Mini Mountain RV Resort - Needs Review > Vault - Mini Mountain RV Resort (1) (Unzipped Files) > Utility Bills
+    Electric Bills
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Mini Mountain RV Resort > Mini Mountain RV Resort - Needs Review > Vault - Mini Mountain RV Resort (1) (Unzipped Files) > Utility Bills > Utlitiy Bills & Invoices 12.22.2025
+    Electric
+    Interent
+    Republic Services
+    Trash
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > 03 OWNED REAL ESTATE PORTFOLIO - Active Properties > Northgate
+    Northgate - Deeds & Ownership
+    Northgate - Inspections
+    Northgate - Insurance
+    Northgate - Invoices & Receipts
+    Northgate - Lease & Tenant Documents
+    Northgate - Legal
+    Northgate - Maintenance & Repairs
+    Northgate - Mortgage & Financing
+    Northgate - Permits & Code Enforcement
+    Northgate - Photos
+    Northgate - Property Management & Correspondence
+    Northgate - Property Taxes
+    Northgate - Purchase & Closing Documents
+    Northgate - Utilities
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property)
+    01 — Property Overview
+    02 — Acquisition & Ownership
+    03 — Financing & Insurance
+    04 — Plans & Permits
+    05 — Construction & Rehab
+    06 — Property Financials
+    07 — Photos & Videos
+    08 — Leasing & Tenancy
+    09 — Maintenance & Inspections
+    10 — Sale & Disposition
+    11 — Correspondence
+    99 — Archive
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 01 — Property Overview
+    Contacts
+    Parcel & Tax Information
+    Property Summary
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 02 — Acquisition & Ownership
+    Closing Documents
+    Due Diligence
+    Purchase Agreement
+    Title & Deed
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 03 — Financing & Insurance
+    Appraisals
+    Claims
+    Insurance Policies
+    Loan Documents
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 04 — Plans & Permits
+    Drawings
+    Inspection Approvals
+    Permits
+    Specifications
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 05 — Construction & Rehab
+    Change Orders
+    Estimates & Bids
+    Progress Reports
+    Punch List
+    Schedule
+    Scope of Work
+    Signed Contracts
+    Warranties
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 06 — Property Financials
+    Budget
+    Cost Reports
+    Draw Requests
+    Invoices
+    Payment Records
+    Receipts
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 07 — Photos & Videos
+    Before
+    Completed
+    Damage & Inspection Evidence
+    Progress
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 08 — Leasing & Tenancy
+    Applications — Restricted
+    Leases & Addenda
+    Move-In Records
+    Move-Out Records
+    Tenant Correspondence
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 09 — Maintenance & Inspections
+    Equipment Manuals
+    Inspection Reports
+    Service Records
+    Work Orders
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 10 — Sale & Disposition
+    Closing Documents
+    Listing Materials
+    Offers
+    Sales Agreement
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 11 — Correspondence
+    Contractor
+    Municipality
+    Other
+    Owner
+    Tenant
+
+SORTED BY AI > 03 — OWNED REAL ESTATE > _TEMPLATE — Standard Property Folder (copy for each property) > 99 — Archive
+    Superseded & Historical Property Records
+
+SORTED BY AI > 04 — CONSTRUCTION & REHAB
+    04 CONSTRUCTION & REHAB - Crew Assignments
+    04 CONSTRUCTION & REHAB - Estimating & Pricing Reference
+    04 CONSTRUCTION & REHAB - Master Project Tracker
+    04 CONSTRUCTION & REHAB - Project Templates
+    04 CONSTRUCTION & REHAB - Safety & Procedures
+    04 CONSTRUCTION & REHAB - Schedules
+
+SORTED BY AI > 04 — CONSTRUCTION & REHAB > 04 CONSTRUCTION & REHAB - Project Templates
+    Rehab and decommissioning checklists
+
+SORTED BY AI > 05 — PROPERTY MANAGEMENT
+    05 PROPERTY MANAGEMENT & TENANTS - Inspections Calendar
+    05 PROPERTY MANAGEMENT & TENANTS - Maintenance Tracking
+    05 PROPERTY MANAGEMENT & TENANTS - Management Procedures
+    05 PROPERTY MANAGEMENT & TENANTS - Master Rent Roll
+    05 PROPERTY MANAGEMENT & TENANTS - Tenant Applications
+    05 PROPERTY MANAGEMENT & TENANTS - Tenant Communications Templates
+
+SORTED BY AI > 05 — PROPERTY MANAGEMENT > 05 PROPERTY MANAGEMENT & TENANTS - Maintenance Tracking
+    Donny Lewis maintenance tracking
+
+SORTED BY AI > 06 — LEGAL — RESTRICTED
+    06 LEGAL - Compliance Tracking
+    06 LEGAL - Disputes & Claims
+    06 LEGAL - General Business Agreements
+    06 LEGAL - Legal Correspondence
+    06 LEGAL - Regulatory Requirements
+    37 Milestone — Matter Records
+    401 Somerfield — CWFCU and Szalay
+    901 Dayton — RSVP Matter
+    Defamation Case — Assessment and Draft
+    Gammage, Lane and Holler — Judicial Conduct
+    Holly Crain — Case Coordination
+    Kollar v Massa and Mackowiak — Matter Records
+    Kollar v State — Matter Records
+    Kollar v Stewart — Matter Records
+    Kollar — RICO Food Stamp Intake
+    Kyle Holt — Matter Records
+
+SORTED BY AI > 06 — LEGAL — RESTRICTED > 06 LEGAL - Compliance Tracking
+    Phoenix legal case management
+
+SORTED BY AI > 06 — LEGAL — RESTRICTED > 06 LEGAL - Disputes & Claims
+    922 Sancome eviction
+    AG complaint and attorney grievance
+    Bankruptcy filings
+    Biggs Lewis and SFR 11 litigation
+    Complaints and answers
+    Court orders and judgments
+    Exhibits and appendices
+    Massa M60 fraud case file
+    Motions and withdrawals
+    Other court filings
+    Tax sale and surplus claims
+
+SORTED BY AI > 06 — LEGAL — RESTRICTED > 06 LEGAL - General Business Agreements
+    Contracts and agreements
+    Leases and land contracts
+    Todd tenant agreement package
+
+SORTED BY AI > 06 — LEGAL — RESTRICTED > 06 LEGAL - Legal Correspondence
+    Legal research and memos
+    Other legal documents
+
+SORTED BY AI > 07 — FINANCE — RESTRICTED
+    07 FINANCE, BANKING & TAX - Accounts Payable
+    07 FINANCE, BANKING & TAX - Accounts Receivable
+    07 FINANCE, BANKING & TAX - Banking & Statements
+    07 FINANCE, BANKING & TAX - Budgets & Forecasts
+    07 FINANCE, BANKING & TAX - Financial Reports
+    07 FINANCE, BANKING & TAX - Loans & Financing
+    07 FINANCE, BANKING & TAX - Payroll
+    07 FINANCE, BANKING & TAX - Tax Records
+    Bank Transactions — September 2026
+    Cash App Reports — 2026
+
+SORTED BY AI > 07 — FINANCE — RESTRICTED > 07 FINANCE, BANKING & TAX - Accounts Payable
+    Receipts and invoices
+
+SORTED BY AI > 07 — FINANCE — RESTRICTED > 07 FINANCE, BANKING & TAX - Accounts Receivable
+    Rent ledgers
+
+SORTED BY AI > 07 — FINANCE — RESTRICTED > 07 FINANCE, BANKING & TAX - Banking & Statements
+    Bank transaction exports
+    Cash App reports
+    Chase statements and activity
+
+SORTED BY AI > 07 — FINANCE — RESTRICTED > 07 FINANCE, BANKING & TAX - Budgets & Forecasts
+    Budgets and rehab cost tracking
+
+SORTED BY AI > 07 — FINANCE — RESTRICTED > 07 FINANCE, BANKING & TAX - Financial Reports
+    Profit and loss statements
+    Proof of funds
+
+SORTED BY AI > 07 — FINANCE — RESTRICTED > 07 FINANCE, BANKING & TAX - Loans & Financing
+    Account and loan details
+    Financing and funding notes
+    Notes and purchase agreements
+    PPM and fund offering documents
+
+SORTED BY AI > 07 — FINANCE — RESTRICTED > 07 FINANCE, BANKING & TAX - Tax Records
+    Tax liens and W-9
+    Tax notices and letters
+    Tax redemption funding checklists
+    Tax sale and surplus claims
+    Tax sale surplus and redemption records
+
+SORTED BY AI > 07 — FINANCE — RESTRICTED > Bank Transactions — September 2026
+    Account ending 3875
+    Account ending 3883
+    Account ending 9020
+    Account to Identify
+
+SORTED BY AI > 08 — COMPANIES
+    08 COMPANIES & ENTITY RECORDS - Business Contacts
+    08 COMPANIES & ENTITY RECORDS - Company Policies
+    08 COMPANIES & ENTITY RECORDS - Formation & Ownership
+    08 COMPANIES & ENTITY RECORDS - Insurance
+    08 COMPANIES & ENTITY RECORDS - Licenses & Registrations
+    08 COMPANIES & ENTITY RECORDS - Meeting Notes
+    08 COMPANIES & ENTITY RECORDS - Operating Agreements
+
+SORTED BY AI > 08 — COMPANIES > 08 COMPANIES & ENTITY RECORDS - Company Policies
+    Relevant Communities vision plans
+
+SORTED BY AI > 08 — COMPANIES > 08 COMPANIES & ENTITY RECORDS - Formation & Ownership
+    Entity formation and operating agreements
+
+SORTED BY AI > 10 — TEAM, HR — RESTRICTED
+    10 TEAM, HR & ACCOUNTABILITY - Hiring & Onboarding
+    10 TEAM, HR & ACCOUNTABILITY - Job Descriptions
+    10 TEAM, HR & ACCOUNTABILITY - Performance Reviews
+    10 TEAM, HR & ACCOUNTABILITY - Personnel Files — Restricted
+    10 TEAM, HR & ACCOUNTABILITY - Time Records
+    10 TEAM, HR & ACCOUNTABILITY - Training
+
+SORTED BY AI > 11 — VENDORS
+    11 VENDORS, CONTRACTORS & PROFESSIONALS - Insurance Certificates
+    11 VENDORS, CONTRACTORS & PROFESSIONALS - One Folder per Vendor or Contractor
+    11 VENDORS, CONTRACTORS & PROFESSIONALS - Qualification Documents
+    11 VENDORS, CONTRACTORS & PROFESSIONALS - Rate Sheets
+    11 VENDORS, CONTRACTORS & PROFESSIONALS - Service Agreements
+    11 VENDORS, CONTRACTORS & PROFESSIONALS - Vendor Directory
+    11 VENDORS, CONTRACTORS & PROFESSIONALS - W-9s
+
+SORTED BY AI > 13 — MARKETING
+    13 MARKETING, BRAND & SALES - Advertising
+    13 MARKETING, BRAND & SALES - Business Cards & Stationery
+    13 MARKETING, BRAND & SALES - General Photos & Videos
+    13 MARKETING, BRAND & SALES - Logos & Brand Guidelines
+    13 MARKETING, BRAND & SALES - Public Relations and Bios
+    13 MARKETING, BRAND & SALES - Social Media
+    13 MARKETING, BRAND & SALES - Website
+
+SORTED BY AI > 13 — MARKETING > 13 MARKETING, BRAND & SALES - Advertising
+    Authority articles and public image
+
+SORTED BY AI > 14 — SYSTEMS, SOPs
+    14 SYSTEMS, SOPs & TEMPLATES - Access Procedures
+    14 SYSTEMS, SOPs & TEMPLATES - Automations & Integrations
+    14 SYSTEMS, SOPs & TEMPLATES - Backup & Recovery
+    14 SYSTEMS, SOPs & TEMPLATES - Change Orders
+    14 SYSTEMS, SOPs & TEMPLATES - Contracts
+    14 SYSTEMS, SOPs & TEMPLATES - Estimates
+    14 SYSTEMS, SOPs & TEMPLATES - Inspection Forms
+    14 SYSTEMS, SOPs & TEMPLATES - Invoices
+    14 SYSTEMS, SOPs & TEMPLATES - Letters
+    14 SYSTEMS, SOPs & TEMPLATES - Project Checklists
+    14 SYSTEMS, SOPs & TEMPLATES - Purchase Orders
+    14 SYSTEMS, SOPs & TEMPLATES - Software & Subscription Register
+    14 SYSTEMS, SOPs & TEMPLATES - SOPs
+    14 SYSTEMS, SOPs & TEMPLATES - System Documentation
+    Access and Subscription Records — Restricted
+    Agreements and NDAs — Versions for Review
+
+SORTED BY AI > 14 — SYSTEMS, SOPs > 14 SYSTEMS, SOPs & TEMPLATES - Estimates
+    Underwriting and proforma templates
+    Underwriting templates
+
+SORTED BY AI > 14 — SYSTEMS, SOPs > 14 SYSTEMS, SOPs & TEMPLATES - Project Checklists
+    DLP Elite and Compass templates
+    Project and production templates
+    Questionnaires
+
+SORTED BY AI > 14 — SYSTEMS, SOPs > 14 SYSTEMS, SOPs & TEMPLATES - SOPs
+    Business scaling and marketing playbooks
+    Phoenix playbooks and checklists
+
+SORTED BY AI > 14 — SYSTEMS, SOPs > 14 SYSTEMS, SOPs & TEMPLATES - System Documentation
+    Phoenix article analyses and briefings
+    Phoenix operating system and dashboards
+
+SORTED BY AI > 99 — ARCHIVE
+    99 ARCHIVE - Historical Administration
+    99 ARCHIVE - Prior-Year Records
+    99 ARCHIVE - Retired Systems
+    99 ARCHIVE - Superseded Documents
