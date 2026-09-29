@@ -36,3 +36,22 @@ inside SORTED BY AI. No sharing was changed. The operator confirmed no check
 was needed.
 
 ---
+
+## 29 September 2026 — Empty folder audit of SORTED BY AI
+
+A read-only audit walked every level of the SORTED BY AI master folder. Nothing
+was created, moved, renamed or deleted.
+
+- 597 folders exist inside SORTED BY AI, across every level.
+- All 597 were checked for contents.
+- 120 hold files or subfolders.
+- **477 are completely empty.**
+
+Most of the empty folders are the standard category shells that were built in
+advance for each property and each master section, waiting for documents to be
+filed into them. A smaller group sits inside the unzipped offering-memorandum
+archives under Mini Mountain RV Resort, where one of two duplicate extractions
+produced an empty folder skeleton.
+
+The full list of empty folders, grouped by location, was delivered to the
+operator. No folders were removed — removing them is a separate decision.
