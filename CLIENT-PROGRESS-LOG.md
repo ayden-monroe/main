@@ -55,3 +55,19 @@ produced an empty folder skeleton.
 
 The full list of empty folders, grouped by location, was delivered to the
 operator. No folders were removed — removing them is a separate decision.
+
+## 30 September 2026 — Empty folders collected into one place
+
+Every level of SORTED BY AI was scanned again, this time to move the blank
+folders out of the working structure rather than only to list them.
+
+- 611 folders exist inside SORTED BY AI. All were checked.
+- 347 hold no documents anywhere inside them.
+- A new folder, **Empty Folders**, was created inside SORTED BY AI.
+- **227 folders were moved into it** — each one moved whole, with any blank
+  subfolders travelling inside it. Folder names and links are unchanged.
+- A report inside Empty Folders lists every folder moved, where it came from,
+  and why.
+
+No documents were moved. Nothing was renamed, deleted or re-shared. Folders
+that hold documents stayed exactly where they were.
